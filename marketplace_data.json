@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "type": "Electronic",
+            "id": 1001,
+            "name": "Macbook Air M1",
+            "price": 7000000.0,
+            "quantity": 6,
+            "warranty_years": 1
+        }
+    ],
+    "users": [
+        {
+            "name": "Norbek",
+            "balance": 4000000.0
+        }
+    ]
+}
